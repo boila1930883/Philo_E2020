@@ -16,7 +16,7 @@ Coordonnées :
 
 		Dissert finale (30%), dernier 3hrs
 
-Discussion : Pas uniquement des exemples, car cela ne permet pas de définir correctement un concept ni de l'exploiter
+Discussion : Pas uniquement des exemples, car cela ne permet pas de définir correctement un concept ni de l'exploiter. Un emple n'est pas un argument.
 
 CRP : Communauté de recherche philosophique, tout le monde est sur le même pied d'égalité. Poser les question sans gêne. Explorer un sujet
 
@@ -25,7 +25,7 @@ Ignorance : Ne pas savoir ++
 
 --------------------------------------
 
-Histoire sur l'origine des Cégeps (enseignement de la philo) // Pas important
+Histoire sur l'origine des Cégeps (enseignement de la philo) + Démocratisation de l'éducation // Pas important
 
 Lien entre le langage et la penséee :
 	- Plus les gens lisent et s'intéressent à plusieurs domaines, mieux ils philosophent.
@@ -48,4 +48,4 @@ Sophisme du jour :
 
 CRP --> Warum : Éthique et Politique ?
 
-C'est en Forgeant qu'on devient Forgeron
+­> C'est en Forgeant qu'on devient Forgeron

@@ -1,0 +1,97 @@
+Cours #2
+
+###L'Examen Oral : Il faut connaitre tous les concepts, mais il n'en demandera qu'un seul !
+###La Dissertation : Comparer deux concepts de deux philosophes.
+
+"C'est en forgeant qu'on devient forgeron !"
+
+Habiletés de Pensée :
+	Analyser ->
+		Décomposer les propos (concept/argument) pour connaître sa composition. Décortiquer. Diviser un tout en ses parties.
+
+	Synthèse ->
+		Prendre les parties d'un tout et de recomposer ce dernier. Des parties vers le tout.
+
+	Réfléchir à partir des propos d'autrui ->
+		Lorsque quelqu'un emet une idée, quelqu'un les réutilsent pour créer une nouvelle idée. Builder une idée à partir d'une idée
+
+#########################################
+Philosophe du jour :
+> Platon :
+	Selon lui, l'humain est fait de deux composant, le corps et l'âme. Lorsque le corps périment (meurt), l'âme retourne dans le Monde des Idées.
+
+	Monde des Idées : Monde dans lequel toutes les idées et toutes les connaissances flottent. Les âmes qui y sont ont connaissance de tout.
+
+	Idée : Concept parfait de quelque chose. Un objet sans défaut. (Classe)
+
+	Le Demi-Urge : Celui qui renvoie les âmes dans le monde réel. Lorsqu'il le fait, l'âme oublie tout ce qu'elle sait. Le but de la vie est de la faire se rappeler.
+
+	Monde Réel : Monde dans lequel il y a des représentations imparfaites des Idées (Objets)
+
+	Âme : 3 Parties -> Âme appétitive (racine au niveau du ventre) : 
+								Besoins de Base (manger/reproduction/boire/etc)
+
+					-> Âme irascible (racine au niveau du torse) :
+								Donne de l'intensité aux deux autres âmes. Une réserve d'énergie dans laquelle l'âme appétitive et rationnelle peuvent piocher.
+
+					-> Âme rationnelle (racine au niveau de la tête) :
+								Celle qui peut avoir accès aux idées.
+
+			Les relations entre les âmes :
+					- Appétitive est en constante compétition avec Rationnelle
+					- Irascible prête sa force aux autres. Par exemple prioriser manger avant de réfléchir, ou lire au lieu de "fuck". Elle priorie l'Appétitive
+					* Appétitive est la seule à aller dans le Monde des Idées
+
+	La Citée Idéale : 3 Groupes de la Société
+				*Dans chaque groupe, tous possède les 3 âmes mais en dominent une*
+
+				- Les Dirigeants : Dirigent la société.
+								   Priorisé sur la Rationnelle
+								   Ont accès aux idées.
+
+				- Les Gardiens : Milice de la Cité. Priorisé sur l'Irascible.
+								 Pour donner un meilleur combat. Cannaliser 
+
+				- Les Artisans : Pourvoyeur des besoins essentiels.
+								 Priorisé sur l'Appétitive
+
+			Listes de Problèmes :
+					* S'il y a trop de Rationnelle, l'on négligerait le corps et il finirait par mourir (Ex. si on ne mange pas)
+
+					* S'il y a trop de Appétitive, l'on se lancererait dans les désirs du corps excessivementil y aurait de l'excès de consommation. Cela ruinerait le corps (Ex. Deviendrait obèse). On perdrait de la lucidité (moins de Rationnelle).
+
+					* S'il y a trop de Irascible, trop guidé par les pulsions. Il y aura trop d'énergie dépenser pour quelque chose de futile et lorsqu'il y aura réellement nécéssité, il n'y aura pas assez de force.
+
+					*** Donc il faut un équilibre entre toutes les parties (le même nombre de gens)
+
+		Discussion :
+			Y-a-t'il des régimes démocratiques qui représenterait la Cité Idéale ?
+
+				Le libéralisme -> Tout le monde profite d'un maximum de liberté (économie/d'expression)
+				Le néo-libéralisme -> Ensemble de doctrine :
+							(Liberté de s'enrichir aux dépends des autres)
+											*La dénonciation du poids de l'État-Providence.
+											*La promotion de l'économie de marché.
+											*La dérégulation des marchés, le laché-prise de l'État sur les marchés.
+
+				Démagogie -> Attirer plus de gens en fesant appel aux émotions des gens
+
+Le Sophisme du Jour :
+	> La pente fatale :
+		Prouver le tort d'un argument en exagérant les conséquences qu'il pourrait causer en imaginant une chaîne de conséquences aboutissant à une conclusion catastrophique.
+
+
+PLAN INTRO :
+
+	1) Sujet Amené (hook) : Anecdote, fait d'actualité. Il faut captiver le lecteur
+
+	2) Sujet Posé : // Il y aura un dilemme présenté, il faut en ressortir une question
+						Ex. Black lifes mathers :
+						*Les policiers peuvent utiliser la brutalité pour protéger la population
+						*Les policiers ne devraient pas l'utiliser la brutalité, car ils doivent protéger la population
+				La Question :
+							Est-ce que la brutalité policière apporte quelque chose de bon à la société ?
+
+			Énoncer clairement le sujet du travail (Ex. Le texte va parler de la Justice)
+											+
+			Formuler la question/problématique (pourquoi on fait le travail)
