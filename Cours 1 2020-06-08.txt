@@ -1,4 +1,4 @@
-Cours 1
+Cours #1
 
 Coordonnées :
 	# Teacher, Vincent Marquis
@@ -34,7 +34,7 @@ Lien entre le langage et la penséee :
 Habiletés de Pensée :
 	1. Donner un Exemple ou un Contre Exemple pour exprimer une pensée.
 	2. Reformuler les propos. Pour s'assurer d'avoir bien compris le dit propos.
-	3. Nuancer
+	3. Nuancer. Remettre les propos moins extrêmes.
 
 Sophisme : 
 	Erreurs de Raisonnement
