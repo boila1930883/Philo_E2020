@@ -67,14 +67,14 @@ Philosophe du jour :
 		Discussion :
 			Y-a-t'il des régimes démocratiques qui représenterait la Cité Idéale ?
 
-				Le libéralisme -> Tout le monde profite d'un maximum de liberté (économie/d'expression)
-				Le néo-libéralisme -> Ensemble de doctrine :
+				- Le libéralisme -> Tout le monde profite d'un maximum de liberté (économie/d'expression)
+				- Le néo-libéralisme -> Ensemble de doctrine : // Rév. Industrielle
 							(Liberté de s'enrichir aux dépends des autres)
 											*La dénonciation du poids de l'État-Providence.
 											*La promotion de l'économie de marché.
 											*La dérégulation des marchés, le laché-prise de l'État sur les marchés.
 
-				Démagogie -> Attirer plus de gens en fesant appel aux émotions des gens
+				- Démagogie -> Attirer plus de gens en fesant appel aux émotions des gens
 
 Le Sophisme du Jour :
 	> La pente fatale :
@@ -92,6 +92,6 @@ PLAN INTRO :
 				La Question :
 							Est-ce que la brutalité policière apporte quelque chose de bon à la société ?
 
-			Énoncer clairement le sujet du travail (Ex. Le texte va parler de la Justice)
+			* Énoncer clairement le sujet du travail (Ex.Le texte va parler de la Justice)
 											+
-			Formuler la question/problématique (pourquoi on fait le travail)
+			* Formuler la question/problématique (pourquoi on écrit la dissertation)
