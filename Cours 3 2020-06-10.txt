@@ -8,6 +8,7 @@ Habiletés de Pensée :
 	Faire une Comparaison ->
 		Comparer deux sujets entre eux pour en faire ressortir une différence ou une ressemblance.
 		Faire une différenciation ou une nuance selon le contexte.
+		Peut aider à faire comprendre
 
 	Faire une Analogie ->
 		C'est une comparaison entre deux relations.
@@ -31,13 +32,13 @@ Philosophe du Jour :
 			  		* Pour qu'il se réalise pleinement, il doit utiliser ses Caractéristiques prédominantes
 
 		Animal Politique : L'Homme
-			# L'homme est un animal politique, car pour réaliser son Telos, l'Homme a besoin de développer sa Sociabilité, sa Raison. Et la meilleure façon de réaliser ces Choses là, c'est dans un Système politique.
+			# L'homme est un animal politique, car pour réaliser son Telos, l'Homme a besoin de développer sa Raison et donc il faut développer la Sociabilité. Et la meilleure façon de réaliser ces Choses là, c'est dans un Système politique.
 
 		Définitions ->
 			- Idéaliste :
 					Quelqu'un qui croit que les Idées existent. Que quelque chose de pure existe.
 			- Naturaliste -> (contrairement à la nature)
-					La nature est ce qu'il y a de plus parfait. La où trouver les Idées Parfaites
+					La nature est ce qu'il y a de plus parfait. Là où trouver les Idées Parfaites
 			- Telos -> "Ce en vue de quoi"
 					Le but de la chose | vers quoi se développe-t'elle
 
@@ -54,8 +55,16 @@ Discussions :
 
 
 Sophisme :
+	> L'Attaque à la Personne :
+			Attaque à la personne pour détruire leur crédibilité.
+
+			Ex. Tu es une femme donc tes arguments ne sont pas valables.
+
 	> La Caricature / L'Attaque à la Personne / L'Homme de Paille :
-			Attaque à la personne ou aux arguments en les ridiculisant/en changeant leur position pour mieux les attaquer. (Diminuer leur crédibilité)
+			Attaque aux arguments en les ridiculisant/en changeant leur position pour mieux les attaquer. (Diminuer leur crédibilité)
+
+			Ex. Il faudrait aller en le moins souvent possible en voiture au Cégep.
+				-> Donc il faudrait y aller en trycicle ? :DDDDD
 
 CRP/DISCUSSIONS :
 		Elon Musk et sa compagnie Neuralink ont annoncé l'implantation de puces intra-craniennes. Est-ce que le Transhumanisme est l'Avenir de l'Homme ?

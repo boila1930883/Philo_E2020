@@ -1,0 +1,93 @@
+Cours #4
+
+Habiletés de Pensée :
+	Tenir compte du contexte ->
+		Prendre soin d'argumenter dans les bornes de ce qui a été établi. Garder la discussion dans un certain contexte.
+
+	Examiner l'envers d'une position ->
+		De voir l'envers de la médaille. Explorer/Argumenter pour la position inverse
+
+	Dégager un ou des présupposés ->
+		> Présupposé : 
+			Si on suppose qqch, on la tient pour vrai avec consentement des deux parties, il y a explicitement dit. Si on la présuppose, on la tient pour vrai sans l'avoir explicitement dit.
+
+			Ex. Supposons que je suis un gérant de banque
+				J'ai un haut poste dans la banque
+
+		Trouver les présupposés dans les propos d'autrui.
+
+#################################
+Philosophe du Jour :
+	> Nicolas Machiavel :
+			* Intellectuel italien du XVe siècle. Issu d'une famille noble. Il s'est ramassée comme conseiller politique, stratège, ...
+			Il fut chassé d'un royaume où il était conseiller politique de l'ancien roi et afin d'y revenir pour y conseiller le nouveau dirigeant, il écrit un livre "Le Prince" qui explique comment conserver le pouvoir déjà acquis.
+
+			"Le Prince" : ### Tous les Coups sont permis ###
+
+							Comment fait-on pour acquérir/conserver le pouvoir ->
+
+								a) Avoir une armée forte et nombreuse :
+											- Bon moral (bons équipements, victoires, ...)
+											- Bon patriotisme
+								b) Utilisation des mercenaires :
+											Aggrandi l'armée sur le coup, mais peut nuir si plus d'argent.
+								c) L'envie :
+											Bien paraître, avoir l'air du nation paisible, riche, confortable pour donner l'envie aux gens de joindre la nation.
+								d) La Peur :
+											- Être imposant pour donner l'envie aux opposants de se soumettre sans combattre
+											- Faire de la Propagande/Campagne de Peur
+												Ex.
+													* Either you're with us, or either you're with the terrorists
+													* La Famille Kin de Corée du Nord
+								e) Le Bon Souverain :
+											Si on commence à perdre le soutien du peuple, s'en assurer avant d'ordonner.
+											Ex.
+											 Ce mois-ci, congé de taxes pour tout le monde !
+
+	Il faut s'assurer que le peuple considère le dirigeant comme supérieur (bon ou mauvais)
+
+	Définitions :
+		Machiavélique :
+				Être prêt à tous les moyens pour prendre/conserver ce que l'on veut.
+
+		Mercenaires :
+				Soldats sans patriotisme, qui se battent pour de l'argent.
+
+SOPHISME :
+	> Le Faux Dilemme :
+			Poser une question qui n'inclue que x nombre de chois alors qu'il y en aurait d'autres
+
+			Ex.
+				* Avec des enfants : Les pratiquer à faire un choix avec un faux dilemme
+					Offrir deux options qui mènent au même but.
+					- Veux-tu aller de mettre en pijamas ou aller te brosser les dents ?
+				* Either you're with us, or either you're with the terrorists ! - George Bouch
+
+PLAN : DEVELOPPEMENT
+	
+	Syllogisme :
+			Avec plusieurs informations, on peut en déduire une nouvelle.
+			Ex. 
+				Positif ->
+					A = B
+					B = C
+					donc A = C
+
+				Négatif ->
+					A != B
+					B = C
+					A != C
+
+	Prémisses :	Une information permettant de faire le syllogisme
+
+		Ex.	Dans le système de référence du système solaire.
+				La Terre tourne autour du soleil
+				Je suis assise sur la Terre
+				Je suis donc en mouvement
+
+	Dans le Développement :
+		* Deux prémisses qui permettent de tirer une conclusion qui permet de répondre à la question.
+
+CRP :
+	Peterson qui est étudiant en psycho. Certains de ses étudiants étaient non-genrés et le prof refusait de les appeler par ces nouveaux noms.
+	On lui a envoyé une lettre qui dit que d'arreter de faire ca et il a réplique que ca nuit a sa liberte d'expression. 
