@@ -2,14 +2,14 @@ Cours #4
 
 Habiletés de Pensée :
 	Tenir compte du contexte ->
-		Prendre soin d'argumenter dans les bornes de ce qui a été établi. Garder la discussion dans un certain contexte.
+		Prendre soin d'argumenter dans les bornes de ce qui a été établi. Garder la discussion dans un certain contexte afin d'explorer le sujet au maximum.
 
 	Examiner l'envers d'une position ->
-		De voir l'envers de la médaille. Explorer/Argumenter pour la position inverse
+		De voir l'envers de la médaille. Explorer/Argumenter pour la position inverse.
 
 	Dégager un ou des présupposés ->
 		> Présupposé : 
-			Si on suppose qqch, on la tient pour vrai avec consentement des deux parties, il y a explicitement dit. Si on la présuppose, on la tient pour vrai sans l'avoir explicitement dit.
+			Si on suppose qqch, on la tient pour vrai avec consentement des deux parties, il y a explicitement dit. Si on la présuppose, on la tient pour vrai sans l'avoir explicitement dit. Révéler les non-dits.
 
 			Ex. Supposons que je suis un gérant de banque
 				J'ai un haut poste dans la banque
@@ -30,7 +30,7 @@ Philosophe du Jour :
 											- Bon moral (bons équipements, victoires, ...)
 											- Bon patriotisme
 								b) Utilisation des mercenaires :
-											Aggrandi l'armée sur le coup, mais peut nuir si plus d'argent.
+											Aggrandi l'armée sur le coup, mais peut nuir si plus(pas) d'argent ou si une autre nation en a plus.
 								c) L'envie :
 											Bien paraître, avoir l'air du nation paisible, riche, confortable pour donner l'envie aux gens de joindre la nation.
 								d) La Peur :
@@ -40,7 +40,7 @@ Philosophe du Jour :
 													* Either you're with us, or either you're with the terrorists
 													* La Famille Kin de Corée du Nord
 								e) Le Bon Souverain :
-											Si on commence à perdre le soutien du peuple, s'en assurer avant d'ordonner.
+											Si on commence à perdre le soutien du peuple, s'en assurer avant d'ordonner. Se faire aimer du peuple.
 											Ex.
 											 Ce mois-ci, congé de taxes pour tout le monde !
 
@@ -48,14 +48,19 @@ Philosophe du Jour :
 
 	Définitions :
 		Machiavélique :
-				Être prêt à tous les moyens pour prendre/conserver ce que l'on veut.
+				Être prêt à tous les moyens pour obtenir/prendre/conserver ce que l'on veut.
 
 		Mercenaires :
 				Soldats sans patriotisme, qui se battent pour de l'argent.
 
+		Humaniste :
+				Croire en l'humanité et en sa capacité. Donc, faire tout son possible pour aider les humains à se développer positivement.
+
+#################################
+
 SOPHISME :
 	> Le Faux Dilemme :
-			Poser une question qui n'inclue que x nombre de chois alors qu'il y en aurait d'autres
+			Poser une question qui n'inclue que x nombre de choix alors qu'il y en aurait d'autres et qui mène toutes à la même finalité.
 
 			Ex.
 				* Avec des enfants : Les pratiquer à faire un choix avec un faux dilemme
