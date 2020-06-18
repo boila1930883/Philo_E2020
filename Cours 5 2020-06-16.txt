@@ -11,7 +11,7 @@ Habiletés de Pensée :
 			Une mauvaise raison : J'aime la lasagne, car je suis homosexuel.
 
 	Donner un critère ->
-		Donner un minimum requis pour qqch.
+		Donner un minimum requis pour qqch. Un barème.
 
 	Évaluer un critère ->
 		Prendre le critère et l'analyser pour savoir s'il est valable/bon critère.
@@ -34,14 +34,14 @@ Philosphe du Jour :
 						- L'État de Nature de l'Homme :
 										Tous les humains n'ont pas les mêmes avantages (Ex. rusé mais faible, fort mais idiot,...). Ils se battent constamment (guerre constante) pour le peu de ressources qu'il y a (pour la nourriture, les abris, ...) Tout est permis.
 
-						- Le Contrat Social :
+						- Le Contrat/Pacte Social :
 										Pour se sortir de l'État de nature. Contrat entre tous les hommes. Ils remettent leurs droits de nature (liberté) dans les mains du Léviathan. Le Léviathan va décider des lois, des politiques et il possède tous les droits.
 
 								Pourquoi y adhérer ?
 										Pour se sortir de l'État de nature où il y a la peur de la mort lente et violente ainsi que de la souffrance.
 
 								On peut ne pas y adhérer...
-										Mais si ces gens qui ne se sont pas joins au contrat social et qu'ils menacent le peuple du Léviathan, ce dernier peut aller les soumettre afin de dégager son peuple d'une menace. (justifier les conquêtes)
+										Mais si ces gens qui ne se sont pas joins au contrat social et qu'ils menacent le peuple du Léviathan, ce dernier peut aller les soumettre (châtier et peut-être leur donner envie de joindre le contrat (pas d'obligations)) afin de dégager son peuple d'une menace. (justifier les conquêtes)
 
 						- Relation Homme-Léviathan :
 										Le Léviathan n'agit pas dans la vie des gens, mais il agit lorsque les hommes brisent les lois sociales. Et si ce sont de grands groupes, il peut décider de les soumettre afin de leur accorder une plus grande liberté.
@@ -65,6 +65,9 @@ Philosphe du Jour :
 
 		Le Droit de Nature ->
 				Le Droit qu'a quelqu'un de faire n'importe quoi lorsqu'il est dans son état de nature.
+
+		La Tyrannie par la majorité ->
+				La majorité influence la minorité, même si son opnion est mauvaise.
 
 #######################################
 
