@@ -31,10 +31,11 @@ Lien entre le langage et la penséee :
 	- Plus les gens lisent et s'intéressent à plusieurs domaines, mieux ils philosophent.
 	- Bien développer sa pensée nécessite le langage et le vocabulaire
 
+######################################
 Habiletés de Pensée :
 	1. Donner un Exemple ou un Contre Exemple pour exprimer une pensée.
 	2. Reformuler les propos. Pour s'assurer d'avoir bien compris le dit propos.
-	3. Nuancer. Remettre les propos moins extrêmes.
+	3. Nuancer. Remettre les propos moins extrêmes. Apporter une précision sur un propos.
 
 Sophisme : 
 	Erreurs de Raisonnement
@@ -45,6 +46,7 @@ Sophisme du jour :
 	Généralisation hâtive/abusive :
 		Attribuer à un groupe de gens des caractéristiques qui ne sont qu'attribuables qu'à une minorité. Stéréotype abusif.
 			Ex. Le Raciste ou "tous les arabes sont terroristes"
+########################################
 
 CRP --> Warum : Éthique et Politique ?
 

@@ -11,7 +11,7 @@ Habiletés de Pensée :
 			Une mauvaise raison : J'aime la lasagne, car je suis homosexuel.
 
 	Donner un critère ->
-		Donner un minimum requis pour qqch. Un barème.
+		Donner un minimum requis pour qqch. Un barème. Un seuil.
 
 	Évaluer un critère ->
 		Prendre le critère et l'analyser pour savoir s'il est valable/bon critère.

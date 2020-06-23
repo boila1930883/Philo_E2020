@@ -7,10 +7,10 @@ Cours #2
 
 Habiletés de Pensée :
 	Analyser ->
-		Décomposer les propos (concept/argument) pour connaître sa composition. Décortiquer. Diviser un tout en ses parties.
+		Décomposer les propos (concept/argument) pour connaître sa composition. Décortiquer. Diviser un tout en ses parties. Voir les relations entre les parties
 
 	Synthèse ->
-		Prendre les parties d'un tout et de recomposer ce dernier. Des parties vers le tout.
+		Prendre les parties d'un tout et de recomposer ce dernier. Des parties vers le tout. Pour rappeler les propos, se remémorer l'évolution de la discussion.
 
 	Réfléchir à partir des propos d'autrui ->
 		Lorsque quelqu'un emet une idée, quelqu'un les réutilsent pour créer une nouvelle idée. Builder une idée à partir d'une idée
