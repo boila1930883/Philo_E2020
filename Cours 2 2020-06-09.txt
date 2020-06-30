@@ -40,7 +40,7 @@ Philosophe du jour :
 			Les relations entre les âmes :
 					- Appétitive est en constante compétition avec Rationnelle
 					- Irascible prête sa force aux autres. Par exemple prioriser manger avant de réfléchir, ou lire au lieu de "fuck". Elle priorie l'Appétitive
-					* Appétitive est la seule à aller dans le Monde des Idées
+					* Rationnelle est la seule à aller dans le Monde des Idées
 
 	La Citée Idéale : 3 Groupes de la Société
 				*Dans chaque groupe, tous possède les 3 âmes mais en dominent une*
@@ -50,7 +50,7 @@ Philosophe du jour :
 								   Ont accès aux idées.
 
 				- Les Gardiens : Milice de la Cité. Priorisé sur l'Irascible.
-								 Pour donner un meilleur combat. Cannaliser 
+								 Pour donner un meilleur combat. Cannaliser.
 
 				- Les Artisans : Pourvoyeur des besoins essentiels.
 								 Priorisé sur l'Appétitive

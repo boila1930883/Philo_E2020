@@ -3,7 +3,7 @@ Cours #3
 Habiletés de Pensée :
 	Définir les termes employés ->
 		Définir les termes inconnus par une ou plusieurs personens au cours d'une discussion. Ou pour tous se mettre d'accord sur une définition
-			*** Définition : Pas nécessairement celle du dictionnaire. Celle
+			*** Définition : Pas nécessairement celle du dictionnaire. Celle utilisé et convenue par tout le monde ***
 
 	Faire une Comparaison ->
 		Comparer deux sujets entre eux pour en faire ressortir une différence ou une ressemblance.
@@ -61,7 +61,7 @@ Sophisme :
 
 			Ex. Tu es une femme donc tes arguments ne sont pas valables.
 
-	> La Caricature / L'Attaque à la Personne / L'Homme de Paille :
+	> La Caricature / L'Homme de Paille :
 			Attaque aux arguments en les ridiculisant/en changeant leur position pour mieux les attaquer. (Diminuer leur crédibilité)
 
 			Ex. Il faudrait aller en le moins souvent possible en voiture au Cégep.

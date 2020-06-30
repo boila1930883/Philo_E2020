@@ -35,7 +35,7 @@ Lien entre le langage et la penséee :
 Habiletés de Pensée :
 	1. Donner un Exemple ou un Contre Exemple pour exprimer une pensée.
 	2. Reformuler les propos. Pour s'assurer d'avoir bien compris le dit propos.
-	3. Nuancer. Remettre les propos moins extrêmes. Apporter une précision sur un propos.
+	3. Nuancer. Remettre les propos moins extrêmes. *** Apporter une précision sur un propos.
 
 Sophisme : 
 	Erreurs de Raisonnement
