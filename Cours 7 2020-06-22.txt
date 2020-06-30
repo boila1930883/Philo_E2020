@@ -11,6 +11,11 @@ Sophisme :
 
 		Ex. - Je n'ai pas à travailler cet été, car aucun de mes amis ne travaillent
 
+	Appel à la tradition ->
+			Faire valoir un argument, car il est supporté par une longue tradition.
+
+		Ex. Ce steak est bon, car sa recette date de 100 ans
+
 	La Fausse analogie ->
 			Appuyer un argument sur une mauvaise analogie.
 

@@ -1,0 +1,87 @@
+Cours #10
+
+Philosophe du Jour :
+	> Emmanuel Kant :
+			Éthique morale (Déontologisme) :
+				- L'intention prime sur le résultat de l'action posée
+
+				- Afin que l'action soit morale, elle doit suivre une maxime respectant certaines conditions ->
+						Impératif hypothétique :
+								Maxime contenant des intérêts personnels.
+							* Pour Kant, ce n'est pas moral, car l'action est motivée par des intérêts personnels
+
+						Impératif catégorique :
+								Maxime ne contenant pas d'intérêt personnels.
+							* Pour Kant, c'est moral, car l'action n'est pas motivée par des intérêts personnels.
+
+				 -> Une action ne doit pas être motivée par le gain qu'elle peut apportée
+				*-> Il ne faut pas agir avec les gens en fonction de ce qu'ils peuvent rapporter (Voir les gens comme des fins et non comme des moyens)
+
+			Maxime (v. de Kant) :
+						- Universalisable :
+											Doit être valable à n'importe quelle époque, dans n'importe quelle société.
+
+*** Le Déontologisme considère bien plus les intentions derrière l'action que l'action ***
+
+	Définitions :
+			Maxime : Phrase dictant l'action à faire.
+
+			Impératif :
+						Moyen avec lesquels on peut observer si une autre maxime est bonne ou pas
+
+
+
+###############################################################
+Excercices sur les sophismes :
+	
+	1.
+		Les médecins sont incompétents. Plusieurs personnes ont payé de leur santé pour apprendre cette vérité.
+
+		Généralisation abusive
+
+		* Généralisation abusive
+
+	2.
+		Les méthodes d'entraînement du hockey européen sont meilleures que les nôtres, d'ailleurs Wayne Gretzky l'affirme aussi.
+
+		Appel à l'autorité
+
+		* Appel à l'autorité
+
+	3.
+		Certaines personnes sont tellement respectueuses de la vie qu'elles sont prêtes à tout mettre en oeuvre pour sauver la moindre parcelle de vie, ne serait-ce qu'un orteil...
+
+		Caricature
+
+		* Caricature
+
+	4. 
+		On doit finalement admettre qu'il est naturel et normal de trouver des riches et des pauvres dans la société puisque ce phénomène a toujours existé.
+
+		Appel à la tradition
+
+		* Appel à la tradition
+
+	5.
+		Mon adversaire politique soutient une opinion contraire à la mienne sur la question de l'enseignement moral ou religieux au cours primaire. Evidemment il a une bonne expérience de l'école primaire puisque c'est à ce degré qu'il a terminé ses études.
+
+		Attaque à la personne
+
+		* Attaque à la personne
+
+	6.
+		C'est facile pour toi de dire que les gens qui travaillent toute la semaine n'ont pas le temps de profiter de la vie, tu n'as qu'à t'asseoir et attendre ton chèque mensuel du Bien-Etre social.
+
+		Attaque à la personne
+
+	7.
+		Tous les Montréalais sont des fervents du hockey; vous n'avez qu'à aller au Centre Bell pour le constater.
+
+		Generalisation hative
+
+		* Generalisation hative
+
+	8.
+		La notion de propriété est une valeur fondamentale car elle existe depuis la nuit des temps.
+
+		Appel à la tradition
