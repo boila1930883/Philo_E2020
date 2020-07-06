@@ -2,8 +2,8 @@ Cours #10
 
 Philosophe du Jour :
 	> Emmanuel Kant :
-			Éthique morale (Déontologisme) :
-				- L'intention prime sur le résultat de l'action posée
+			Éthique morale (Déontologisme kantien) :
+				- L'intention prime sur le résultat de l'action posée (on évalue l'intention afin de déterminer si c'est moral ou non)
 
 				- Afin que l'action soit morale, elle doit suivre une maxime respectant certaines conditions ->
 						Impératif hypothétique :
@@ -20,6 +20,8 @@ Philosophe du Jour :
 			Maxime (v. de Kant) :
 						- Universalisable :
 											Doit être valable à n'importe quelle époque, dans n'importe quelle société.
+
+						- Libre de toute motivation personnelle
 
 *** Le Déontologisme considère bien plus les intentions derrière l'action que l'action ***
 
